@@ -1,2 +1,2 @@
 # nettyim
-Netty+Websocket连天开发完成
+Netty+Websocket聊天开发完成
